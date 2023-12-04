@@ -7,7 +7,12 @@
             Bar charts created
             Pie chart created via DataFrame.plot method
 
-
+3rd commit - Pie Charts created
+            Box plots created
+            Quartiles determined
+            Outliers determined
+            Line and Scatter plots created
+            
 
 
 
